@@ -8,7 +8,7 @@ A **StarCafé API** é uma API RESTful desenvolvida para facilitar o gerenciamen
 - **Framework:** [Express]
 - **Banco de Dados:** [PostgreSQL]
 - **Documentação:** README.md
-- 
+  
 ### 👩🏻‍💻 Testando o Servidor 
 
 Antes de testar as requisições, verifique se o seu servidor está funcionando de maneira correta. 
