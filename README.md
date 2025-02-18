@@ -47,11 +47,6 @@ GET /menu
 ```
 
 ### ☕ Tipos de Café
-#### 🔹 Café Espresso  
-Um café forte e encorpado, preparado sob alta pressão com moagem fina.  
-
-#### 🔹 Café Americano  
-Espresso diluído com água quente para um sabor mais suave.  
 
 #### 🔹 Cappuccino  
 Feito com espresso, leite vaporizado e espuma de leite, proporcionando um equilíbrio perfeito entre cremosidade e intensidade.  
@@ -59,14 +54,6 @@ Feito com espresso, leite vaporizado e espuma de leite, proporcionando um equil�
 #### 🔹 Latte  
 Similar ao cappuccino, mas com mais leite vaporizado e menos espuma.  
 
-#### 🔹 Macchiato  
-Espresso com uma pequena quantidade de espuma de leite por cima.  
-
-#### 🔹 Mocha  
-Uma combinação de espresso, leite vaporizado e calda de chocolate, finalizado com chantilly.  
-
-#### 🔹 Café Gelado  
-Espresso resfriado servido com gelo e, opcionalmente, leite ou xaropes aromatizados.  
 
 ### 🛒 Pedidos
 #### 🔹 Criar um novo pedido
