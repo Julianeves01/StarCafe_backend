@@ -23,21 +23,6 @@ Ao inicializar o servidor, ele retornará a seguinte mensagem:
     
 Caso contrário, exibirá uma mensagem de erro. 
 
-# ☕ StarCafé API
-
-### API REST para gerenciamento de pedidos e estoque da cafeteria StarCafé
-
-## 📌 Visão Geral
-A **StarCafé API** é uma API RESTful desenvolvida para facilitar o gerenciamento de pedidos e controle de estoque da cafeteria StarCafé. Com esta API, os clientes podem visualizar o menu, fazer pedidos, acompanhar o status e cancelá-los quando necessário. Além disso, a equipe da cafeteria pode gerenciar o estoque de produtos.
-
-## 🚀 Tecnologias Utilizadas
-- **Linguagem:** [Node.js / Python / Java / Outro]
-- **Framework:** [Express / FastAPI / Spring Boot / Outro]
-- **Banco de Dados:** [PostgreSQL / MongoDB / MySQL]
-- **Autenticação:** JWT
-- **Padrão Arquitetural:** RESTful
-- **Documentação:** Swagger / OpenAPI
-
 ## 📂 Endpoints
 
 ### 📝 Menu
